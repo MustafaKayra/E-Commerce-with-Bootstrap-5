@@ -3,8 +3,8 @@ Bu sitede fonksiyonel olarak e-ticaret yapılmamaktadır. Sitede sadece tasarım
 
 # Projede Kullanılan Teknolojiler
 
--Python Django
--Bootstrap 5
+Python Django
+Bootstrap 5
 
 # Proje Erişimi
 Projeyi "git clone https://github.com/MustafaKayra/E-Commerce-with-Bootstrap-5.git" komutuyla bilgisayarınıza klonladıktan sonra siteyi kendi yerel bilgisayarınızdan çalıştırabilirsiniz.
