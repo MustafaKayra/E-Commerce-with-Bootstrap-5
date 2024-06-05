@@ -2,6 +2,7 @@
 Bu sitede fonksiyonel olarak e-ticaret yapılmamaktadır. Sitede sadece tasarım olarak geliştirilse de sepete ekleme ve admin panelinde sipariş gösterimi gibi özellikleride barındırıyor.
 
 # Projede Kullanılan Teknolojiler
+
 -Python-Django
 -Bootstrap 5
 
