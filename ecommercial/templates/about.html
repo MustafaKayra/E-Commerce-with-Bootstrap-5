@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+{% block title %}Hakkımızda{% endblock title %}
+
+{% block body %}
+
+    <body class="d-flex flex-column">
+        <main class="flex-shrink-0">
+            <!-- Header-->
+            <header class="py-5">
+                <div class="container px-5">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-8 col-xxl-6">
+                            <div class="text-center my-5">
+                                <h1 class="fw-bolder mb-3">Hakkımızda</h1>
+                                <p class="lead fw-normal text-muted mb-4">Site tamamen örnek bir site olup fonksiyonel olarak e-ticaret yapılamamaktadır. Sitenin açık kaynak kodlarına erişmek için <a href="https://github.com/MustafaKayra/E-Commerce-with-Bootstrap-5" target="_blank">linke</a> tıklayabilirsiniz.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </header>
+            <!-- Team members section-->
+            <section class="py-5 bg-light">
+                <div class="container px-5 my-5">
+                    <div class="text-center">
+                        <h2 class="fw-bolder">Geliştirici</h2>
+                        <p class="lead fw-normal text-muted mb-5"></p>
+                    </div>
+                    <div class="row gx-5 row-cols-1 row-cols-sm-2 row-cols-xl-4 justify-content-center">
+                        <div class="col mb-5">
+                            <div class="text-center">
+                                <img class="img-fluid rounded-circle mb-4 px-4" src="https://dummyimage.com/150x150/ced4da/6c757d" alt="..." />
+                                <h5 class="fw-bolder">Mustafa Kayra Toker</h5>
+                                <div class="fst-italic text-muted">Web Developer</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </body>
+
+
+{% endblock body %}
