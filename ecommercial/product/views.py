@@ -1,7 +1,7 @@
 from django.shortcuts import render,redirect
 from .forms import ReportForm
 from django.contrib import messages
-from .models import Product,Category
+from .models import Product
 
 def index(request):
     return render(request,"index.html")
