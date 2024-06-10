@@ -3,7 +3,7 @@ Bu sitede fonksiyonel olarak e-ticaret yapılmamaktadır. Sitede sadece tasarım
 
 # Projede Kullanılan Teknolojiler
 
-Python-Django
+Python-Django,
 Bootstrap 5
 
 # Proje Erişimi
